@@ -1,1 +1,1 @@
-# Banging-management-system
+# Banking-management-system
